@@ -61399,7 +61399,7 @@ o=A.D(b).M.cy
 o.toString
 return A.bu(A.b([m,i,A.cJ(!1,A.d5(A.bP(A.b([s,r,p,A.aF(n,A.am(u.v,n,o.HU(A.n5(b)?10:15,B.p),n),n,n,n,n,n,500)],q),B.l,B.r,B.k),new A.R(k,new A.S(new A.l(3,0),new A.l(0,0),l),j),n,!0),h)],q),B.bW,B.a9,B.k,n)}}
 A.Fp.prototype={
-G(a,b){var s,r,q=null,p=A.aF(q,q,q,new A.c9(q,A.tL(B.bQ,new A.i0("assets/imgs/me-about.jpg")),q,A.ex(25),q,q,B.L),200,q,q,133.33333333333334),o=A.ag(q,20,q)
+G(a,b){var s,r,q=null,p=A.aF(q,q,q,new A.c9(q,A.tL(B.bQ,new A.i0("assets/imgs/meabout.jpg")),q,A.ex(25),q,q,B.L),200,q,q,133.33333333333334),o=A.ag(q,20,q)
 $.nV()
 s=this.e
 r=t.p
