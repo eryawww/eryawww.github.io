@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "cb06c71ca560b54f3ba97067c4c4bc91",
+  "assets/AssetManifest.json": "3ac11940043e5f62150fb22890945655",
 "assets/assets/gifs/flappyai.gif": "6fa94a572227e77fad7c6089e33721f5",
 "assets/assets/gifs/instagram_scraper.gif": "a6a3201d00afae7fe21aaea2d56b8329",
 "assets/assets/gifs/portfolio_web.gif": "e9c82a18ab7b771983db9d178bf7d4df",
@@ -17,7 +17,6 @@ const RESOURCES = {
 "assets/assets/imgs/cv.pdf": "8d278ea3fddd6336d27842e3e44d51cf",
 "assets/assets/imgs/linkedin.png": "30c453b7f5fbdb09ea0cb42a5dc7a6e5",
 "assets/assets/imgs/me-about-org.jpg": "7d1fe24b3072b92a2bd11f8a5d569f9b",
-"assets/assets/imgs/me-about.JPG": "edd95c615f249ebf6d9689e04e5a9ba1",
 "assets/assets/imgs/me.png": "0a8cf10ed941810c0051a81e9a1572eb",
 "assets/assets/imgs/portfolio1.jpg": "d1e8fb803162800c55cbc18b57899262",
 "assets/assets/imgs/portfolio2.jpg": "13db5e2202aa39b783fded70d877b662",
@@ -56,8 +55,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "874bc831e25714923a1508b8743ed4ec",
-"/": "874bc831e25714923a1508b8743ed4ec",
+"index.html": "d99444c7ce8133ab820c649018053364",
+"/": "d99444c7ce8133ab820c649018053364",
 "main.dart.js": "6f91c1fb7a631a37e45c15f7fead4917",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "009c9e65172e010890f7f65fde438006"
