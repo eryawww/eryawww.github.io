@@ -61385,7 +61385,7 @@ G(a,b){var s=null,r=A.cV(b,100,75,75),q=A.cV(b,125,80,90),p=A.D(b),o=A.ex(10),n=
 return A.aF(s,A.bP(A.b([n,A.dA(A.am(m,s,A.cV(b,A.D(b).M.r.cw(B.t),l,k),s),1),A.ag(s,10,s),A.am(this.c,s,A.D(b).M.db.cw(B.t),s),A.ag(s,5,s)],t.p),B.l,B.r,B.k),s,new A.c9(p.ch.f,s,s,o,s,s,B.L),r,s,new A.aH(10,10,10,10),q)}}
 A.Ds.prototype={
 G(a,b){var s,r,q,p,o,n=null,m=A.a(this.d.y,"_value"),l=t.J,k=this.c,j=l.j("R<ad.T>"),i=A.cV(b,262,n,157.2),h=A.cV(b,350,n,235.8)
-m=A.cJ(!1,A.d5(A.aF(n,n,n,new A.c9(n,A.tL(B.bQ,new A.i0("assets/imgs/me-about.jpg")),n,A.ex(25),n,n,B.L),h,n,n,i),new A.R(k,new A.S(new A.l(-3,0),new A.l(0,0),l),j),n,!0),m)
+m=A.cJ(!1,A.d5(A.aF(n,n,n,new A.c9(n,A.tL(B.bQ,new A.i0("assets/imgs/aboutme.jpg")),n,A.ex(25),n,n,B.L),h,n,n,i),new A.R(k,new A.S(new A.l(-3,0),new A.l(0,0),l),j),n,!0),m)
 i=A.ag(n,n,50)
 h=k.a
 h=k.b.O(0,h.gl(h))
@@ -61399,7 +61399,7 @@ o=A.D(b).M.cy
 o.toString
 return A.bu(A.b([m,i,A.cJ(!1,A.d5(A.bP(A.b([s,r,p,A.aF(n,A.am(u.v,n,o.HU(A.n5(b)?10:15,B.p),n),n,n,n,n,n,500)],q),B.l,B.r,B.k),new A.R(k,new A.S(new A.l(3,0),new A.l(0,0),l),j),n,!0),h)],q),B.bW,B.a9,B.k,n)}}
 A.Fp.prototype={
-G(a,b){var s,r,q=null,p=A.aF(q,q,q,new A.c9(q,A.tL(B.bQ,new A.i0("assets/imgs/meabout.jpg")),q,A.ex(25),q,q,B.L),200,q,q,133.33333333333334),o=A.ag(q,20,q)
+G(a,b){var s,r,q=null,p=A.aF(q,q,q,new A.c9(q,A.tL(B.bQ,new A.i0("assets/imgs/aboutme.jpg")),q,A.ex(25),q,q,B.L),200,q,q,133.33333333333334),o=A.ag(q,20,q)
 $.nV()
 s=this.e
 r=t.p
